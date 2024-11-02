@@ -1,0 +1,163 @@
+@media screen and (max-width:380px){
+
+    .top-container{
+        width: 90%;
+        grid-template-columns: auto;
+        text-align: center;
+    }
+    .social-menu i{
+        display: none;
+    }
+    .top-mail a{
+        font-size: 14px;
+    }
+    .header-container{
+        width: 90%;
+        grid-template-columns: auto;
+    }
+     nav{
+        display: none;
+    }
+    .banner-container{
+        width: 90%;
+        margin-top: 90px ;
+    }
+    /* .banner-details{
+        width: 90%;
+    
+    } */
+    #banner h1{
+     width: 90%;
+     font-size: 27px;
+     margin: 0;
+    }
+    #banner h2 {
+        margin: 0;
+        font-size: 16px;
+    }
+    /* #banner .get .Watch{
+        text-align: center;
+        margin-top: 20px;
+    } */
+   
+    .sed-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .about-container{
+        width: 90%;
+    }
+    .about-heading  h3{
+        font-size: 29px;
+    }
+    .about-text h3{
+        font-weight: 600;
+        font-size: 26px;
+    }
+    .parent-about{
+        grid-template-columns: 1fr;
+    }
+    .percent-container{
+        width: 90%;
+    }
+    .percent-menu{
+        grid-template-columns: 1fr;
+    }
+    .Happy-Clients-container{
+        width: 90%;
+        grid-template-columns: 1fr ;
+    
+    }
+    .happy-box i{
+        position: absolute;
+    top: -25px;
+    left: 102px;
+    }
+   
+    .image-info-container{
+        width: 90%;
+        grid-template-columns: 1fr 1fr;
+       text-align: center;
+      
+    }
+    .image-box img{
+        max-width: 40%;
+        margin-bottom: 10px;
+    }
+    .services-container{
+        width: 90%;
+    }
+    .parent-service{
+        grid-template-columns: 1fr ;
+    }
+    .slider-container{
+        width: 90%;
+    }
+    .portfolio-container{
+      width: 90%;
+    }
+    .parent-portfolio{
+     grid-template-columns: 1fr;
+    }
+    .team-container{
+        width: 90%;
+    }
+    .team-heading h3{
+        font-size: 29px;
+    }
+    .team-parent{
+        grid-template-columns: 1fr ;
+    }
+    .pricing-container{
+        width: 90%;
+    }
+    
+    .pricing-parent{
+        grid-template-columns: 1fr;
+    }
+    .faq-container{
+        width: 90%;
+    }
+    .faq-menu li{
+        width: 90%;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
+    .contact-container{
+        width: 90%;
+    }
+    .contact-parent{
+        grid-template-columns: 1fr;
+    }
+    .map-parent{
+        grid-template-columns: 1fr;
+    }
+    input[type="sub"]{
+        width: 60%;
+    }
+    .newsletter-container{
+        width: 90%;
+    }
+    .footer-container{
+        width: 90%;
+        grid-template-columns: 1fr;
+    }
+    .ft-box{
+        margin-bottom: 30px;
+    }
+   
+    .footer2-container{
+        width: 90%;
+        display: grid;
+       margin: auto;
+
+    }
+   
+
+
+
+
+
+
+
+}
